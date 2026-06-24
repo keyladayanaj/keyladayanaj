@@ -1,6 +1,6 @@
 # Olá, eu sou a Keyla Dayana! 👋
 
-Engenharia de Dados em formação · Buscando estágio · São Paulo, Brasil
+ Buscando estágio · São Paulo, Brasil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keyladayanaji)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://portifolio-keyla-ala.github.io/keyla-portfolio/#home)
