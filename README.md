@@ -10,7 +10,7 @@ Engenharia de Dados em formação · Buscando estágio · São Paulo, Brasil
 
 ## Sobre mim
 
-Estudante de Sistemas de Informação (5º semestre – FIAP) com foco em Engenharia de Dados.
+Estudante de Sistemas de Informação (5º semestre – FIAP) .
 Conhecimentos em pipelines de dados, ETL, modelagem e Big Data, com base em desenvolvimento Java e APIs REST com Spring Boot.
 
 ---
