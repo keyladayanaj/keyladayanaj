@@ -3,14 +3,13 @@
  Buscando estágio · São Paulo, Brasil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keyladayanaji)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://portifolio-keyla-ala.github.io/keyla-portfolio/#home)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keyladayanaji@gmail.com)
 
 ---
 
 ## Sobre mim
 
-Estudante de Sistemas de Informação (5º semestre – FIAP) .
+Estudante de Sistemas de Informação (6º semestre – FIAP) .
 Conhecimentos em pipelines de dados, ETL, modelagem e Big Data, com base em desenvolvimento Java e APIs REST com Spring Boot.
 
 ---
